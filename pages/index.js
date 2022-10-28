@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my test app!" />
         <p className="description">
-          Site under construction 🚧 //<code>pages/index.js</code>
-        </p>
+          Site under construction 🚧 
+            </p>
       </main>
 
       <Footer />
