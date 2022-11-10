@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Site under construction 🚧 
             </p>
-      <a aria-label="Chat on WhatsApp" href="https://wa.me/1XXXXXXXXXX"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />
+      
       </main>
 
       <Footer />
